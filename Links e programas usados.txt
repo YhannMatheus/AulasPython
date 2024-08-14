@@ -1,0 +1,3 @@
+python: https://www.python.org/
+git   : https://git-scm.com/download/win
+GitHub: https://github.com/
