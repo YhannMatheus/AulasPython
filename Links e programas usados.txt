@@ -1,3 +1,5 @@
-python: https://www.python.org/
-git   : https://git-scm.com/download/win
-GitHub: https://github.com/
+python:         https://www.python.org/
+git   :         https://git-scm.com/download/win
+GitHub:         https://github.com/
+VS code:        https://code.visualstudio.com/
+repositorio:    https://github.com/YhannMatheus/AulasPython.git
